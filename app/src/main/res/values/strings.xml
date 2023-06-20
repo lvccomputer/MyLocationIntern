@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="title_notifications">Notifications</string>
+
+    <string name="map">Map</string>
+    <string name="shared">Shared</string>
+    <string name="contact">contact</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="share_button">Share Button</string>
+    <string name="button_favorite">Yêu thích</string>
+    <string name="button_share">Chia sẻ</string>
+</resources>
